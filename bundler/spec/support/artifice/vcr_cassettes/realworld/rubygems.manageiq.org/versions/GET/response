@@ -1,0 +1,13 @@
+HTTP/1.1 404 Not Found
+date: Sat, 15 Jan 2022 04:50:56 GMT
+connection: Keep-Alive
+accept-ranges: bytes
+content-length: 233
+content-type: application/xml
+x-hw: 1642222256.dop033.ma1.t,1642222256.cds223.ma1.shn,1642222256.dop033.ma1.t,1642222256.cds033.ma1.p
+x-amz-request-id: tx0000000000000c588d280-0061e252b0-2053f1ec-nyc3b
+strict-transport-security: max-age=15552000; includeSubDomains; preload
+cache-control: max-age=60
+vary: Access-Control-Request-Headers,Access-Control-Request-Method,Origin
+
+<?xml version="1.0" encoding="UTF-8"?><Error><Code>NoSuchKey</Code><BucketName>rubygems-manageiq-org</BucketName><RequestId>tx0000000000000c588d280-0061e252b0-2053f1ec-nyc3b</RequestId><HostId>2053f1ec-nyc3b-nyc-zg02</HostId></Error>

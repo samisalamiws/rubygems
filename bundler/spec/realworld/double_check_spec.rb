@@ -37,4 +37,12 @@ RSpec.describe "double checking sources", :realworld => true do
     ruby cmd
     ruby cmd
   end
+
+  it "deals with old marshaled specs with nil required_rubygems_version" do
+    install_gemfile <<~G
+      source "https://rubygems.org"
+
+      gem "ruport", "=1.7.0.3", :source => "https://rubygems.manageiq.org"
+    G
+  end
 end

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+connection: close
+content-length: 0
+retry-after: 0
+content-type: text/plain; charset=utf-8
+accept-ranges: bytes
+date: Sat, 15 Jan 2022 04:50:58 GMT
+via: 1.1 varnish
+x-served-by: cache-mad22050-MAD
+x-cache: MISS
+x-cache-hits: 0
+x-timer: S1642222258.460772,VS0,VE0
+server: RubyGems.org
+

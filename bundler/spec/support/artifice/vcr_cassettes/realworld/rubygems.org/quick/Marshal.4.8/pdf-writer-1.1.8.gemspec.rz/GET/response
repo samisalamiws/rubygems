@@ -1,0 +1,26 @@
+HTTP/1.1 200 OK
+connection: keep-alive
+content-length: 539
+x-amz-id-2: DCk0jOub9p0Zpvv6o9QM9Hv1JWAdPWYaOyvKKQicu4a4OzciPqK6jUs0yFQodfsqDqvAiBJGRSo=
+x-amz-request-id: A7018MFAG42RV757
+x-amz-replication-status: COMPLETED
+last-modified: Tue, 02 Feb 2016 09:00:51 GMT
+etag: "7452816c2b20d38180fbfd5f5bba1132"
+x-amz-version-id: N4tZjX7tHWalfv8ZRWMcfXok2u.Ss835
+content-type: binary/octet-stream
+via: 1.1 varnish, 1.1 varnish
+x-backend: F_S3 52.218.234.249:443, fastlyshield--shield_ssl_cache_sea4471_SEA 199.27.78.71:443
+accept-ranges: bytes
+date: Sat, 15 Jan 2022 04:51:03 GMT
+age: 2941
+x-served-by: cache-sea4471-SEA, cache-mad22020-MAD
+x-cache: HIT, HIT
+x-cache-hits: 1, 1
+x-timer: S1642222263.094262,VS0,VE0
+vary: Fastly-SSL
+server: RubyGems.org
+
+xœmRQ‹Ó@>ÏÒk«‡ˆÇéƒC@Qô6)ÞƒnðèÁqâ›œ­‚}(›Í´Ù3ÙÍínZú"þt'I«Ì’Àlfæûæû¦Ó«øñG,8ÿR¢Ts%…WFï?¿ÛéMƒAÄÞ³3Õ”éüte•G;á›‚¯h¥N»Á`È†ìÝ§Š÷ÇªÀÃÎàé¯=zºüÙ¨Öe"Ÿ­”Ïf•—3iÐJ*»
+Â(+‹p]%kø|y©‘UÚƒ´Ø°€\%VØ5›ð£òo+e±NšvéÝóI¼WSˆ(è[ê6=0üqSp‰%êµ\÷øÉhÙ2žÙ¿m">iQ`0&7–?ù_’›Ä½ÞÁù‡à±ÈÄý^<ˆâ{Á±·B;!kÞ§NeŽñýê~nˆö†ìmpX³<%IƒQ9¯ô¨¾˜»@FJ{tÑÜÃw…‹m°ŸÝgÊmÒš¥JÑÏD¢rå×àM+îÈé rJ/Àè|š„]n4o{)tÆ’‚^‡$€È!ÅÂÔ(+
+b)T.’8ÕõïRHzCÕ@
+m4mPþ»µ‘«qþ­Y  9^ÜVÆÇ…Ð•È	ÑÆo`•)™Õ AX &.ÓÍ‰Ò¡G™%Æü€—7¤Ð¦Ïö²¼zBZª$?_ÐiÃ»E„¹¢Qv9¬Ò6fÁëÌû’‡áŽ'!iqCÃºpëÝxtý%

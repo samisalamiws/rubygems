@@ -1,0 +1,7 @@
+> GET /versions
+> accept-encoding: gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+> accept: */*
+> user-agent: bundler/2.4.0.dev rubygems/3.4.0.dev ruby/3.1.0 (arm64-apple-darwin21) command/install options/no_install 183af17f8049f274
+> connection: keep-alive
+> keep-alive: 30
+> host: rubygems.manageiq.org
